@@ -6,3 +6,4 @@ function print()
 {console.log ("Hello , have a amazing day");}
 
 print()
+

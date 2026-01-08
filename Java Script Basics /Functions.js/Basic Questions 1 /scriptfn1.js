@@ -1,6 +1,7 @@
 function printFn(msg) //parameters 
 { 
-  console.print(msg)
+  console.log(msg);
 }
+ printFn("Hello, have a amazing day");
 
-printFn("Hello, have a amazing day"); //argument 
+
