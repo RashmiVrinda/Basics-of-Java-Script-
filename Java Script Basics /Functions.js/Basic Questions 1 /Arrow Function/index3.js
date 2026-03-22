@@ -36,3 +36,11 @@
 // const product = arr => arr.reduce((total,num) =>  total*num,1);
 // console.log(product([1,2,3,4]));
 
+// Question 50 of 100
+
+// 🧠 Task:
+// Create an arrow function that returns a new array with each number converted to a string.
+
+// const toStrings = arr => arr.map(num => String(num));
+// console.log(toStrings([1,3]));//
+
