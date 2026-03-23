@@ -13,4 +13,4 @@ const data = fs.readFileSync("./order.json", "utf-8");
       return null;
     }
   };
-console.log(getTotalRevenue());
+console.log(getTotalRevenue);
